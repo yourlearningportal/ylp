@@ -223,11 +223,11 @@ Navigation
 }
 .nav-toggle.active span:after {
   top: 0px;
-  -moz-transform: translatey(-10px) rotate(-45deg);
-  -ms-transform: translatey(-10px) rotate(-45deg);
-  -o-transform: translatey(-10px) rotate(-45deg);
-  -webkit-transform: translatey(-10px) rotate(-45deg);
-  transform: translatey(-10px) rotate(-45deg)
+  -moz-transform: translatey(-0px) rotate(-45deg);
+  -ms-transform: translatey(-0px) rotate(-45deg);
+  -o-transform: translatey(-0px) rotate(-45deg);
+  -webkit-transform: translatey(-0px) rotate(-45deg);
+  transform: translatey(-0px) rotate(-45deg)
 }
 .navicon {
   position: absolute;
